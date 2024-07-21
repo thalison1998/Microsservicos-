@@ -1,6 +1,7 @@
+using ClienteMicro.Presentation;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ClienteMicro.Api.Controllers
+namespace ClienteMicro.Presentation.Controllers
 {
     [ApiController]
     [Route("[controller]")]
